@@ -22,7 +22,7 @@ contract Mattejon is ERC721URIStorage {
     }
 
     // Fonction pour mint un NFT
-    //https://emn178.github.io/online-tools/keccak_256_checksum.html site pour hash une image avec fonction de hachage Keccak-256
+    //https://emn178.github.io/online-tools/keccak_256_checksum.html site pour hash un fichier avec fonction de hachage Keccak-256
     function safeMint(address to, uint256 tokenId, string memory uri) public onlyOwner {
         _safeMint(to, tokenId);
         _setTokenURI(tokenId, uri);
