@@ -4,6 +4,7 @@ Thumbs.db
 
 # Dépendances et fichiers générés par Remix
 .deps/
+.states/
 artifacts/
 cache/
 remix-workspace.json
