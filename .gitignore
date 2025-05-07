@@ -1,0 +1,17 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dépendances et fichiers générés par Remix
+.deps/
+artifacts/
+cache/
+remix-workspace.json
+
+
+# Dossier de build (si tu utilises un autre outil que Remix)
+build/
+
+# Git lui-même
+.git/
+
