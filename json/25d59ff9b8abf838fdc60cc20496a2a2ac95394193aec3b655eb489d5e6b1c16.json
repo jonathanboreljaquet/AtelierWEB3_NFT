@@ -1,0 +1,8 @@
+{
+  "name": "Test Mattejon",
+  "description": "NFT de test généré sur Paint, image et JSON hébergés sur GitHub. Identifiant du JSON basé sur le hash keccak256 de celui-ci.",
+  "image": "https://raw.githubusercontent.com/jonathanboreljaquet/AtelierWEB3_NFT/refs/heads/main/images/1487255f7358c4e8aa657a5d226ed9ce02e77a05efe4ee411010ad0718b98120.png",
+  "external_url": "https://github.com/jonathanboreljaquet/AtelierWEB3_NFT/tree/main",
+  "hash_image": "1487255f7358c4e8aa657a5d226ed9ce02e77a05efe4ee411010ad0718b98120",
+  "created_by": "Jonathan Borel-Jaquet"
+}
